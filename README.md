@@ -5,7 +5,7 @@
 
 (g2) Alínea 1: Márcio Gadelha | marciogadelha89@gmail.com
 
-(g2) Alínea 2: Igor Teixeira | utad75038@alunos.utad.pt
+(g2) Alínea 2: Igor Teixeira | igor_teixeira@hotmail.com
 
 (g2) Alínea 3: Luis Paz | luis.paz@sapo.pt
 
